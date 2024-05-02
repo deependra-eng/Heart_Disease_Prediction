@@ -3,6 +3,8 @@ Project Overview : Heart disease is one of the leading causes of death worldwide
 
 Data Sources: Data was collected from the Kaggle.
 
+Libraries : Pandas, Numpy, SK-learn (ML Models : Logistic regression, SVC, Decision tree classifier, GaussianNB)
+
 EDA Observations:
 >>There are no null vales present in dataset.
 >>There are no class imbalancing in Target variable.
