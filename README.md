@@ -10,6 +10,6 @@ EDA Observations:
 >>There are no class imbalancing in Target variable.
 >>50% of the people coming from age between 47 and 61.
 
-Data Modeling: We have built different Predictive models like Logistic regression(Accuracy = 0.80), Support Vector Classifier(Accuracy = 0.65), GaussianNB(Accuracy = 0.81), Decision Tree Classifier(Accuracy = 0.68).Both model Logictic anf GaussianNB have almost same accuracy.
+Model Building: We have built different Predictive models like Logistic regression(Accuracy = 0.80), Support Vector Classifier(Accuracy = 0.65), GaussianNB(Accuracy = 0.81), Decision Tree Classifier(Accuracy = 0.68).Both model Logictic anf GaussianNB have almost same accuracy.
 
 Model Selection : We are going ahead with Logistic regression model, beacuse its better choice due to its similar accuracy and simpler, more interpretable nature.
